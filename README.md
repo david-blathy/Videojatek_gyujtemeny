@@ -1,2 +1,5 @@
 # Videojatek_gyujtemeny
-Tematikus adatkezelo alkalmazas
+Thematic data management application
+
+# Creators:
+Balla David, Kuszko Zsombor
